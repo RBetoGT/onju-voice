@@ -1,5 +1,7 @@
 # Onju Voice 🍐🔈
 
+_Deprecated - see updated version [onju-v2](https://github.com/justLV/onju-v2)_
+
 💫 [DEMO's](https://twitter.com/justLV)
 
 A hackable AI home assistant platform using the Google Nest Mini (2nd gen) form factor, consisting of:
